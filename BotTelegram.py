@@ -5,7 +5,7 @@ from telegram import Update
 from PIL import Image
 from rembg import remove
 
-TOKEN = "8073022902:AAFhPyqMQFXc_JoNsS9a8PECNRk2aM8UIuc" 
+TOKEN = ":AAFhPyqMQFXc_JoNsS9a8PECNRk2aM8UIuc" 
 
 # Créer les dossiers nécessaires
 os.makedirs("./temp", exist_ok=True)
